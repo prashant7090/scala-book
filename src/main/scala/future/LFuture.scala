@@ -9,6 +9,4 @@ object LFuture {
 
   }
 
-
-
 }
